@@ -1,3 +1,3 @@
 # atividade-curriculo
 
-Atividae de pensamento computacional - curriculo.
+Atividade de pensamento computacional - curriculo.
